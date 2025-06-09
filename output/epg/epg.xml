@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250609100545 +0800">
+<tv date="20250609103009 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -29105,8 +29105,5 @@
 	</programme>
 	<channel id="安徽国际">
 		<display-name lang="zh">安徽国际</display-name>
-	</channel>
-	<channel id="IPTV经典电影">
-		<display-name lang="zh">IPTV经典电影</display-name>
 	</channel>
 </tv>
